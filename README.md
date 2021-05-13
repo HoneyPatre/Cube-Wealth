@@ -1,4 +1,5 @@
 <h1 align="center">Welcome to Cube Wealth Travel Time Calculation System 👋</h1>
+![Sample Output](Output.png)
 
 > The project, “Cube Wealth Travel Time Calculation System” is a Java project which calculates on road time of Driver by considering, overlaping conditions of time slots and category of the product.
 
