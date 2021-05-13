@@ -25,6 +25,7 @@ javac DeliveryDriver.java
 javac Main.java
 java Main
 ```
+Side Note: csv file path has to be changed according to respective system.
 
 ## Author
 
